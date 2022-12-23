@@ -4,7 +4,7 @@
 
 I am a Data analyst at Carrefour Kenya and im currently undertaking a project that will inform the marketing department on the most relevant marketing strategies that will result in the highest no. of sales (total price including tax). 
 
-![image](https://user-images.githubusercontent.com/98347891/209404942-ade208ab-658a-4b8d-bf3e-34edcccb2312.png)
+![image](https://user-images.githubusercontent.com/98347891/209405043-9d19a579-e056-41fe-be4b-e9eeaff77e74.png)
 
 Defining the Question
 Our main objective is to analyze the provided data and come up with most relevant marketing strategies that will result to highest number of sales.
